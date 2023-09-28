@@ -1,2 +1,2 @@
 #!/bin/bash
-hello/setfacl -m u:--x
+hello/setfacl 
